@@ -1,0 +1,57 @@
+h1{
+    text-align:center ;
+}
+
+form{
+    width: 250px;
+    margin: auto;
+    border: solid 1px black;
+    padding: 8px;
+    border-radius: 10 px;
+}
+
+
+
+
+div{
+    display: flex;
+    flex-direction:column
+}
+
+input{
+    width: 200px;
+    padding: 4px 6px;
+}
+
+input[type="checkbox"] {
+    width: 16px;
+    margin-right: 8px;
+}
+
+input[type="checkbox"] {
+    width: 16px;
+    margin-right: 8px;
+}
+
+input[type="submit"] {
+    margin-top: 8px;
+    width: 100%;
+    background-color: aqua;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 6px 0;
+    border: solid 1px black;
+    cursor: pointer;
+
+}
+
+label {
+    margin: 8px 0px;
+}
+
+.check {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+}

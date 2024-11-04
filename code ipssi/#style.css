@@ -1,0 +1,15 @@
+.container {
+    background-color: #f9d5b7;
+    width: 500px;
+    height: auto;
+    margin: 0px auto;
+
+}
+img {
+    width: 100%;
+}
+.redcolor,a {
+    color: darkred
+    text-alignenter
+    background-color   
+}
